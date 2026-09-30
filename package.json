@@ -1,0 +1,14 @@
+{
+  "name": "web-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local web search (SearXNG) and optional page fetch as an MCP server. Zero dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
